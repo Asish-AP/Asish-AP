@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Pen-it-down](https://github.com/Asish-AP/Pen-It-Down)
+- 🔭 I’m currently working on [AsishBlog](https://github.com/Asish-AP/Pen-It-Down)
 
-- 🌱 I’m currently learning **Node.js,React.js**
+- 🌱 I’m currently learning **Next.js,Node.js**
 
-- 👨‍💻 All of my projects are available at [Not Yet hosted](Not Yet hosted)
-
-- 💬 Ask me about **React.js,c++**
+- 💬 Ask me about **Next.js,c++**
 
 - 📫 How to reach me **asishpandda@gmail.com**
 
